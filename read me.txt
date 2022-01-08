@@ -1,0 +1,2 @@
+portofolio tersaji dalam format html, sehingga dibuka dengan web browser. file yang dibuka adalah index.html
+terima kasih
